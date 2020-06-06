@@ -6,6 +6,14 @@ foto, título do repositório  e descrição que ficarão armazenados no localSt
 ## Demo
 [YouTube](https://youtu.be/RPM50tWP7Gg)
 
+## Tecnologias utilizadas
+- ReactJS
+- TypeScript
+- Styled-components
+- ESLint
+- Prettier
+
+
 ## Instalando as dependências
 Com o terminal aberto no diretório da aplicação, basta executar o comando:
 ```
